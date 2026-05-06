@@ -10,11 +10,10 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-- 大家好，我是 Aurorp1g ，来自广东汕头🗻
-- 目前是一名网络工程在读本科生 👨‍🎓
-- 同时研究网络安全、密码学、逆向工程、全栈开发 👨‍💻
-- 对数据结构与算法、coding、底层计算机感兴趣 🚀
-- 欢迎光临我的Github 🍧
+- Hello everyone, im Leonardo and im from Mexico, Ver. 🦀
+- I am a Computer Systems Engineering major specializing in Data Science.
+- I also focus on cloud programming (Microsoft Azure), backend development with Java and Spring Boot, and embedded systems using Raspberry Pi and Arduino UNO.
+- Welcome to my GitHub.😾
 
 
 ### 社交主页 💻
