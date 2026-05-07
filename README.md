@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=07F725&lines=Im+Leonardo+Manzanilla;I+like+coding+and+frogs+🐸;Welcome+to+my+github📺" />
 </p>
 
-### About me <a href="https://git.io/typing-svg"><img src="/assets/RanaLinda.gif" /></a>
+### About me <a href="https://git.io/typing-svg"><img src="f" /></a>
 
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+<div><img align="right" alt="GIF" src="/assets/RanaLinda.gi" width="300" height="auto" /></div>
 
 - Hello everyone, im Leonardo and im from Mexico, Ver. 🦀
 - I am a Computer Systems Engineering major specializing in Data Science.
