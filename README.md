@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Zanila-drip">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=07F725&lines=I'm+Leonardo+Manzanilla;I+like+developing+and+frogs+%F0%9F%90%B8;Welcome+to+my+github">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=07F725&lines=Im+Leonardo+Manzanilla;I+like+developing+and+frogs+%F0%9F%90%B8;Welcome+to+my+github">
   </a>
 </p>
 
