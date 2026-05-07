@@ -1,9 +1,7 @@
 ## コードを書く猿  — Zanila-drip <img src="/assets/Rana.gif" alt="Hi" width="70" /> 
 
 <p align="center">
-  <a href="https://github.com/Zanila-drip">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=07F725&lines=Im+Leonardo+Manzanilla;I+like+coding+and+frogs+%F0%9F%90%B8;Welcome+to+my+github">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=07F725&lines=Im+Leonardo+Manzanilla;I+like+coding+and+frogs+🐸;Welcome+to+my+github" />
 </p>
 
 ### About me <a href="https://git.io/typing-svg"><img src="https://giphy.com/gifs/xckpvtJhGi3TpQKRrW" /></a>
