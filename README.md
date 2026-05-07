@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### About me <picture style="margin-right: 10px;"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0b2lhcmc4Z2RuOTVtc2tkZzlwbXdnYm4ycjVoMm00dTU5YnJveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xckpvtJhGi3TpQKRrW/giphy.gif" width="40" alt="about me"></picture>
+### About me <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07F725&width=435&lines=I'm+Leonardo+Manzanilla;I+like+developing+and+frogs+%F0%9F%90%B8;Welcome+to+my+github" alt="Typing SVG" /></a>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
