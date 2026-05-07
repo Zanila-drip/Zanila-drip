@@ -1,4 +1,4 @@
-## コードを書く猿  — Zanila-drip <img src="[https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw2enlvazZyMmoxdWVvcDB2c3NlZHZia3NsZXp6bTVtaDJ4MjZxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vAffj8fVjDD69aGNl/giphy.gif)" alt="Hi" width="70" /> 
+## コードを書く猿  — Zanila-drip <img src="/assets/rana.gif" alt="Hi" width="70" /> 
 
 <p align="center">
   <a href="https://github.com/Zanila-drip">
