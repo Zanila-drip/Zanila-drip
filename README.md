@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=07F725&lines=Im+Leonardo+Manzanilla;I+like+coding+and+frogs+🐸;Welcome+to+my+github📺" />
 </p>
 
-### About me <a href="https://git.io/typing-svg"><img src="https://giphy.com/gifs/xckpvtJhGi3TpQKRrW" /></a>
+### About me <a href="https://git.io/typing-svg"><img src="/assets/RanaLinda.gif" /></a>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
