@@ -1,4 +1,4 @@
-## コードを書く猿  — Zanila-drip <img src="/assets/rana.gif" alt="Hi" width="70" /> 
+## コードを書く猿  — Zanila-drip <img src="/assets/Rana.gif" alt="Hi" width="70" /> 
 
 <p align="center">
   <a href="https://github.com/Zanila-drip">
