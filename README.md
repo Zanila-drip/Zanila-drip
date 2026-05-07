@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### About me <picture style="margin-right: 10px;"><img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dvZGRoaWhhaXM3YzN0ZGZjanVkdTM4OXp2cmYzd2Z2MGduZzRiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/InG7YDwadoTQY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0b2lhcmc4Z2RuOTVtc2tkZzlwbXdnYm4ycjVoMm00dTU5YnJveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xckpvtJhGi3TpQKRrW/giphy.gif)" width="40" alt="about me"></picture>
+### About me <picture style="margin-right: 10px;"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0b2lhcmc4Z2RuOTVtc2tkZzlwbXdnYm4ycjVoMm00dTU5YnJveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xckpvtJhGi3TpQKRrW/giphy.gif" width="40" alt="about me"></picture>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
