@@ -6,7 +6,7 @@
 
 ### About me <a href="https://git.io/typing-svg"><img src="f" /></a>
 
-<div><img align="right" alt="GIF" src="/assets/RanaLinda.gi" width="300" height="auto" /></div>
+<div><img align="right" alt="GIF" src="/assets/RanaLinda.gif" width="300" height="auto" /></div>
 
 - Hello everyone, im Leonardo and im from Mexico, Ver. 🦀
 - I am a Computer Systems Engineering major specializing in Data Science.
