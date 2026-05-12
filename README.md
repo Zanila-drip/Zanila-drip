@@ -16,7 +16,6 @@
 
 ### Redes 💻
 - <a href="https://www.linkedin.com/in/leonardo-mmtz-46420a183/"><img height="22" width="22" src=""></a>：Linkedln 🌐
-- <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：这是我的Bilibili主页 📺
 
 ### 技术栈 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
