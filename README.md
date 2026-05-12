@@ -14,8 +14,8 @@
 - Welcome to my GitHub.😾
 
 
-### 社交主页 💻
-- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：这是我的个人网站 🌐
+### Redes 💻
+- <a href="https://www.linkedin.com/in/leonardo-mmtz-46420a183/"><img height="22" width="22" src=""></a>：这是我的个人网站 🌐
 - <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：这是我的Bilibili主页 📺
 
 ### 技术栈 🛠️
