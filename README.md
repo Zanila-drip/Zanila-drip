@@ -31,14 +31,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000 )
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 
-
-
-### Projects <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Zanila-drip&repo=Tiempo)](https://github.com/Zanila-drip/Tiempo)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Heart-notes&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Heart-notes)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
 <br>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
