@@ -35,8 +35,8 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
-### 编程语言 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
+### Languages <picture style="margin-right: 10px;"><img src="" width="30" alt="Statistics"></picture>
+<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Zanila-drip&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 
 ### Github 状态图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 ![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
