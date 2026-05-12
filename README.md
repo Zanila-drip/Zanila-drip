@@ -17,7 +17,7 @@
 ### Redes 💻
 - <a href="https://www.linkedin.com/in/leonardo-mmtz-46420a183/"><img height="22" width="22" src=""></a>：Linkedln 🌐
 
-### 技术栈 🛠️
+### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
@@ -33,8 +33,8 @@
 
 
 
-### 开源项目 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Zanilas-drip&repo=Tiempo&theme=github_dark_dimmed)](https://github.com/Zanila-drip/Tiempo)
+### Projects <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Zanila-drip&repo=Tiempo)](https://github.com/Zanila-drip/Tiempo)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Heart-notes&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Heart-notes)
