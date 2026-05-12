@@ -15,7 +15,7 @@
 
 
 ### Redes 💻
-- <a href="https://www.linkedin.com/in/leonardo-mmtz-46420a183/"><img height="22" width="22" src=""></a>：Linkedln 🌐
+- <a href="https://www.linkedin.com/in/leonardo-mmtz-46420a183/"><img height="22" width="22" src=:office:></a>：Linkedln 🌐
 
 ### 技术栈 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
