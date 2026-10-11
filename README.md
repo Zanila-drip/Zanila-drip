@@ -21,9 +21,6 @@
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=shell&logoColor=ffffff)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff )
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff )
@@ -35,10 +32,9 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
-### Languages <picture style="margin-right: 10px;"><img src="" width="30" alt="Statistics"></picture>
 <img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Zanila-drip&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 
 
 Credits: [Aurorp1g](https://github.com/Aurorp1g)
 
-Last Edited on: 11/05/2026
+Last Edited on: 11/10/2026
